@@ -1,4 +1,4 @@
 # inventory-management-vb6
 
-one of my first project
+one of my first projects
 //aaah VB6!
